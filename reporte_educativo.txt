@@ -1,0 +1,8 @@
+REPORTE EDUCATIVO — DATOS SINTÉTICOS
+Registros: 200
+Edad media: 52.4 años
+Frecuencia cardíaca media: 82.3 lpm
+Saturación media: 96.3%
+Glucosa media: 140.1
+Registros con FC > 100 (criterio didáctico): 25
+No apto para uso clínico.
